@@ -1,23 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Void Games",
+        "link": "https://www.youtube.com/@Void-Gamer852"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ali",
+        "link": "https://www.youtube.com/@Ali-_-_-_-_-_-_-_-.-.-.--A-l2g"
     },
     {
         "role": "dev",
