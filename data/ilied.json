@@ -8,5 +8,11 @@
     "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "GDtomon",
+            "link": "https://youtu.be/tAK7zNAisr4",
+            "percent": 100,
+            "hz": 20
+        }
     ]
 }
