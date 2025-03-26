@@ -9,8 +9,26 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Void Games",
+            "user": "Void-games852",
             "link": "https://youtu.be/DA8IPjhBxbc?si=HSqFo62VnN_wDUym",
+            "percent": 100,
+            "hz": 20
+        }
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=liZ7vveIq0k",
+            "percent": 100,
+            "hz": 20
+        }
+        {
+            "user": "Ezi :3",
+            "link": "https://youtu.be/kFCUziSURDM",
+            "percent": 100,
+            "hz": 20
+        }
+        {
+            "user": "ZacAttackVR",
+            "link": "https://youtu.be/tWRwLOL7uwQ",
             "percent": 100,
             "hz": 20
         }
