@@ -9,8 +9,14 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Void Games",
+            "user": "Void-games852",
             "link": "https://youtu.be/OV_obE_DaDc?si=-PGmN1iXFYX9iKze",
+            "percent": 100,
+            "hz": 20
+        }
+        {
+            "user": "ejgpsyched",
+            "link": "https://www.youtube.com/watch?v=nlOdPheaxPA",
             "percent": 100,
             "hz": 20
         }
