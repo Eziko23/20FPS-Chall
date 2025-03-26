@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/oInRFx2ilqM",
     "percentToQualify": "50",
     "password": "Free To Copy",
-    "records": []
+    "records": [
         {
             "user": "GDTomon",
             "link": "https://youtu.be/tAK7zNAisr4",
@@ -32,4 +32,5 @@
             "percent": 100,
             "hz": 20
         }
+    ]
 }
