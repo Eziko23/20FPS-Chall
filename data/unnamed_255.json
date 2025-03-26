@@ -7,11 +7,12 @@
     "verification": "https://youtu.be/BqBy6JHR-Hw",
     "percentToQualify": "50",
     "password": "Free to Copy",
-    "records": []
+    "records": [
         {
             "user": "ZacAttackVR",
             "link": "https://youtu.be/ONfRGXBKIcc",
             "percent": 100,
             "hz": 20
         }
+    ]
 }
