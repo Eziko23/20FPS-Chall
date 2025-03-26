@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=hiAX0VGIUWM",
     "percentToQualify": "50",
     "password": "Not Copyable",
-    "records": [
+    "records": []
         {
             "user": "Void-games852",
             "link": "https://youtu.be/DA8IPjhBxbc?si=HSqFo62VnN_wDUym",
@@ -32,5 +32,4 @@
             "percent": 100,
             "hz": 20
         }
-    ]
 }
