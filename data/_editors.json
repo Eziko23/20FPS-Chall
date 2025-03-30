@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "Void Games",
+        "name": "Void-games852",
         "link": "https://www.youtube.com/@Void-Gamer852"
     },
     {
@@ -13,5 +13,10 @@
         "role": "dev",
         "name": "Ezi :3",
         "link": "https://bsky.app/profile/ezi.yup.lol"
+    },
+    {
+        "role": "dev",
+        "name": "GDTomon",
+        "link": "https://github.com/UnityToad"
     }
 ]
