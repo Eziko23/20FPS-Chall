@@ -8,6 +8,18 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://youtu.be/gJ-IYJ_EG6k",
+            "percent": 100,
+            "hz": 20
+        },
+        {
+            "user": "Void-games852",
+            "link": "https://youtu.be/UmY4c7FSd_8?si=0UPUIwhUqNS5eSiy",
+            "percent": 100,
+            "hz": 20
+        }
     ]
 }
 

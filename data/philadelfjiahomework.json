@@ -8,5 +8,17 @@
     "percentToQualify": "50",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://youtu.be/jO4biN8akD4",
+            "percent": 100,
+            "hz": 20
+        },
+        {
+            "user": "Ezi :3",
+            "link": "https://youtu.be/GkL89vH1q2w",
+            "percent": 100,
+            "hz": 20
+        }
     ]
 }
