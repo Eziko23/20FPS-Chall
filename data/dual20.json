@@ -8,5 +8,11 @@
     "percentToQualify": "50",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "pixel",
+            "link": "https://www.youtube.com/watch?v=gQxFe_fzX4c",
+            "percent": 100,
+            "hz": 20
+        }
     ]
 }
